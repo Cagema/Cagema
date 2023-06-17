@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Cagema
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning .NET
-- 💞️ I’m looking to collaborate with team to develop games for practice
+- 💞️ I’m looking to collaborate with team to develop for practice
 - 📫 How to reach me: @cagema Telegram
 
 <!---
