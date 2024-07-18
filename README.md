@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Cagema
-- 👀 I’m interested in C#
-- 💞️ I’m looking to collaborate with team to develop for practice
+- 👀 I’m interested in gamedev
 - 📫 How to reach me: @cagema Telegram
 
 <!---
